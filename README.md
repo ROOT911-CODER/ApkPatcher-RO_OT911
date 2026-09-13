@@ -58,15 +58,15 @@ pkg install python -y
 
 `OR`
 
-    pip install --force-reinstall https://github.com/TechnoIndian/ApkPatcher/archive/refs/heads/main.tar.gz
+    pip install --force-reinstall https://github.com/ROOT911-CODER/ApkPatcher/archive/refs/heads/main.tar.gz
 
 `OR`
 
-    curl -Ls https://github.com/TechnoIndian/Tools/releases/download/Tools/ApkPatcher.sh | bash
+    curl -Ls https://github.com/ROOT911-CODER/Tools/releases/download/Tools/ApkPatcher.sh | bash
 
 **2nd. Method**
 
-    pkg install python git && pip install git+https://github.com/TechnoIndian/ApkPatcher.git
+    pkg install python git && pip install git+https://github.com/ROOT911-CODER/ApkPatcher.git
 
 
 Uninstall ApkPatcher
