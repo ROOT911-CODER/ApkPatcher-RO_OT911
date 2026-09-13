@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://t.me/rktechnoindians"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://t.me/rktechnoindians"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20PAK-PAKISTAN-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
 <a name="readme-top"></a>
@@ -245,9 +245,9 @@ ApkPatcher Other Patch Flags
 # NOTE
 
 
-## 🇮🇳 Welcome By Techno India 🇮🇳
+## PAL Welcome By @RO_OT911
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/rktechnoindians)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)]([[https://t.me/+eO_sei3uL4M5MzBl](https://t.me/+eO_sei3uL4M5MzBl)](https://t.me/+eO_sei3uL4M5MzBl))
   </a><p>
-[![Telegram](https://img.shields.io/badge/TELEGRAM-OWNER-red?style=for-the-badge&logo=telegram)](https://t.me/RK_TECHNO_INDIA)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-OWNER-red?style=for-the-badge&logo=telegram)](https://t.me/+eO_sei3uL4M5MzBl)
 </p>
