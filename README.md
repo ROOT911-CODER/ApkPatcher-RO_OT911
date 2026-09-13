@@ -54,7 +54,7 @@ pkg install python -y
 
 `💢 For Latest Commit ( From Main  Branch )  💢`
 
-    pip install --force-reinstall https://github.com/TechnoIndian/ApkPatcher/archive/refs/heads/main.zip
+    pip install --force-reinstall https://github.com/ROOT911-CODER/ApkPatcher/archive/refs/heads/main.zip
 
 `OR`
 
